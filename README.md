@@ -1,53 +1,25 @@
-# Product Card UI
+# 🚀 Unified Product & Pricing Landing Page
 
-A responsive, single-component product card built with pure HTML and CSS — no frameworks, no JavaScript. Designed as a hands-on exercise for practicing layout composition, hover interactions, and visual hierarchy in CSS.
+A high-conversion landing page built to demonstrate **Shared Design Language**, **CSS Grid layouts**, and **UX-focused navigation**. 
 
-## Preview
+### 🔗 [Live Demo](https://yourusername.github.io/unity-landing-page/)
 
-A clean e-commerce style card featuring a product image, category tag, star rating, discounted pricing, and a call-to-action button.
+## ✨ Key Features
+- **Shared Design Language:** Unified system for shadows, border-radius, and hover interactions using CSS variables.
+- **Sticky Navigation:** Persistent `position: sticky` header with smooth-scroll anchor links.
+- **Responsive Grid:** Uses `grid-template-columns: repeat(auto-fit, ...)` to adapt from desktop to mobile without media query bloat.
+- **Glassmorphism Nav:** Modern frosted-glass effect for the navigation bar.
 
-## Features
+## 🛠️ Technical Implementation
+- **Architecture:** Semantic HTML5 (`<article>`, `<section>`, `<nav>`).
+- **Styling:** Modern CSS (Flexbox, Grid, Variables).
+- **UX:** `scroll-behavior: smooth` for seamless section transitions.
 
-- **Image badge overlay** — "New" tag positioned absolutely over the product image
-- **Discount pricing** — current price paired with a struck-through original price
-- **Star rating display** — simple, dependency-free rating indicator
-- **Hover animation** — subtle lift and shadow effect on card hover
-- **Responsive-ready** — fixed-width card that adapts cleanly inside flex/grid layouts
+## 📈 Learning Journey
+This project was the natural evolution of building individual UI fragments. By combining a product grid and pricing table into one cohesive site, I focused on:
+1. **Consistency:** Ensuring a button in the Hero section feels the same as a button in the Pricing card.
+2. **Spacing:** Implementing a consistent vertical rhythm between sections.
+3. **Deployment:** Automating the hosting process via GitHub Pages.
 
-## Tech Stack
-
-- HTML5
-- CSS3 (Flexbox, `object-fit`, `position` layering, transitions)
-
-## Project Structure
-
-```
-product-card/
-├── index.html
-├── style.css
-└── README.md
-```
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/diro25/product-card.git
-   ```
-2. Open `index.html` in your browser — no build steps or dependencies required.
-
-## Concepts Practiced
-
-- Semantic HTML structure
-- CSS positioning (`relative` / `absolute`) for badge overlays
-- `object-fit: cover` for consistent image cropping
-- Transitions and hover states for micro-interactions
-- Typography and spacing hierarchy
-
-## Author
-
-**Diriba** — [GitHub @diro25](https://github.com/diro25)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+---
+Built by [Diriba Adugna ] • [https://github.com/diro25/]
