@@ -13,7 +13,6 @@ A high-conversion landing page built to demonstrate **Shared Design Language**, 
 ## 🛠️ Technical Implementation
 - **Architecture:** Semantic HTML5 (`<article>`, `<section>`, `<nav>`).
 - **Styling:** Modern CSS (Flexbox, Grid, Variables).
-- -get the best fueture in the world of the UI
 - **UX:** `scroll-behavior: smooth` for seamless section transitions.
 
 ## 📈 Learning Journey
