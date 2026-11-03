@@ -8,7 +8,7 @@ A high-conversion landing page built to demonstrate **Shared Design Language**, 
 - **Shared Design Language:** Unified system for shadows, border-radius, and hover interactions using CSS variables.
 - **Sticky Navigation:** Persistent `position: sticky` header with smooth-scroll anchor links.
 - **Responsive Grid:** Uses `grid-template-columns: repeat(auto-fit, ...)` to adapt from desktop to mobile without media query bloat.
-- **Glassmorphism Nav:** Modern frosted-glass effect for the navigation bar.
+- **Glassmorphism Nav:** Modern frosted-glass effect for the navigation bar. and 
 
 ## 🛠️ Technical Implementation
 - **Architecture:** Semantic HTML5 (`<article>`, `<section>`, `<nav>`).
