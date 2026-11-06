@@ -14,6 +14,7 @@ A high-conversion landing page built to demonstrate **Shared Design Language**, 
 - **Architecture:** Semantic HTML5 (`<article>`, `<section>`, `<nav>`).
 - **Styling:** Modern CSS (Flexbox, Grid, Variables).
 - **UX:** `scroll-behavior: smooth` for seamless section transitions.
+- build solutin in the followwing
 
 ## 📈 Learning Journey
 This project was the natural evolution of building individual UI fragments. By combining a product grid and pricing table into one cohesive site, I focused on:
